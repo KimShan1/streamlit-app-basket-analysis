@@ -40,7 +40,7 @@ Two association rules are identified:
 - Customers who bought 'Tea' also bought 'Coffee' with a confidence of 34.96% and a lift of 0.7.
 
 <div style="text-align: center;">
-  <img src="rules.png" alt="Products by Support" width="800" height="300">
+  <img src="rules.png" alt="Products by Support" width="800" height="100">
 </div>
 
 ### Association Rules Scatter Plot:
