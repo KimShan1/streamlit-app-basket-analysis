@@ -26,7 +26,7 @@ From the bar chart, we can observe that 'Coffee' is the most popular product, fo
 Support is a measure of how frequently an itemset appears in the dataset. Higher support indicates higher popularity of that itemset.
 This table provides a sorted view of the itemsets based on their support values. 'Coffee' and 'Bread' are the most frequently appearing items, which corroborates the findings from the most popular products analysis.
 <div style="text-align: center;">
-  <img src="apriori_df.png" alt="Products by Support" width="400" height="300">
+  <img src="apriori_df.png" alt="Products by Support" width="400" height="200">
 </div>
 
 ### Association Rules:
